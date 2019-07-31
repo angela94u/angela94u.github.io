@@ -1,0 +1,10 @@
+p, h1 {
+  font-size: 50px;
+  color: purple;
+  font-family: verdana;
+}
+
+body {
+  background-color: yellow
+}
+<body>
